@@ -1,0 +1,24 @@
+h1{
+	font-size: 40px;
+	background: rgb(77,188,233);
+	font-family: comic;
+	text-align: center;
+    
+}
+h2{
+	text-align:center;
+}
+div{
+	text-align:center;
+}
+.hyperlink{
+	text-align: center;
+}
+.ifyouarereadingthisyouaregay{
+	font-size: 10px;
+	font-family: Arial;
+
+}
+body{
+	background: rgb(255,255,255);
+}

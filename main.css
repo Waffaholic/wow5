@@ -22,3 +22,15 @@ div{
 body{
 	background: rgb(255,255,255);
 }
+.quality{
+	text-align: right;
+	font-size: 26px;
+	padding-top: 0px;
+	padding-bottom: 0px:
+}
+.sub{
+ font-size: 40px;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
